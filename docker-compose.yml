@@ -6,4 +6,3 @@ services:
       - "8099:5000"
   redis:
     image: "redis:alpine"
-
